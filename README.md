@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usrFWQWZ
 - 👀 I love the Rust programing language
-- 🌱 I’m currently learning more about "Operating System Development"
+- 🌱 I’m currently learning more about Operating Systems
 - 💞️ I’m looking to collaborate on the Redox Oprating System
 - 📫 You can reach me via my Email
 
