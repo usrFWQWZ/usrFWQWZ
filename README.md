@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @usrFWQWZ
+- 👋 Hi, I’m Elliot Velasquez
 - 👀 I love the Rust programing language
 - 🌱 I’m currently learning more about Operating Systems
 - 💞️ I’m looking to collaborate on the Redox Oprating System
